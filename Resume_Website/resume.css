@@ -1,0 +1,105 @@
+.paper{
+    border: 1px solid gray;
+    height: 1100px;
+    width: 33%;
+    box-shadow: 5px 5px 5px grey;
+    margin: 20px auto;
+  }
+  .box{
+    width: 90%;
+    margin: 10px auto;
+  }
+  .info{
+    width: 10%;
+    float: left;
+    margin: 20px 30px;
+  }
+  .title{
+    width: 100px;
+    height: 65px;
+    font-family: 'Raleway', sans-serif;   
+  }
+  .position{
+    font-family: 'Raleway', sans-serif;
+    font-size:14px;
+    color: #f2511b;    
+    width: 300px;
+  }
+  .right_div{
+    display: inline-block;
+    width: 50%;
+    margin: 0 0 0 20%;
+  }
+  .title_line{
+    border: 2px solid black;
+    margin: 50px 0px 10px;
+    width: 100%;
+  }
+  .big_line{
+    border: 2px solid black;
+    margin: 0 0 10px 0;
+  }
+  .name-contact{
+    font-family: 'Raleway', sans-serif;
+    display: inline;
+    font-size:17px;
+  }
+  .place{
+    margin: 0 0;
+    font-size: 16px;
+  }
+  .contact_phone, .contact_email{
+    color: #d44500;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    margin: 0 0;
+  }
+  .contact_email{
+    text-decoration: underline;
+    display: inline-block;
+  }
+  .contact_phone{
+    margin: 15px 0 0;
+  }
+  .small_line{
+    border: 1px solid black;
+    margin: 0 0 10px;
+    width: 20%;
+  }
+  .subtitle{
+    font-family: 'Raleway', sans-serif;   
+    width: 10%;
+    height: 50px;
+    margin: 0 30px; 
+    float: left;
+  }
+
+  .skills-section{
+    display: flex;
+  }
+  .list{
+    display: block;
+    width: 50%;
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    display: inline-block;
+  }
+  .job, .school{
+    font-weight: 400;
+  }
+  h3{
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+  }
+  .time{
+    font-size: 12px;
+    font-family: 'Lato', sans-serif;
+    color: #666666;
+    margin: 3px 0;
+  }
+  .description{
+    font-size: 14px;
+    font-family: 'Lato', sans-serif;
+    margin: 10px 0 5% 0;
+  }
+
